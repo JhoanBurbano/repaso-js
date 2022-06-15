@@ -117,3 +117,8 @@ function Linkedlist(){
   lnk.remove()
   console.log('----------->', lnk)
   
+
+  module.exports = {
+    Linkedlist,
+    Node
+  }

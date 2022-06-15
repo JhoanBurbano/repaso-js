@@ -1,0 +1,20 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "description": "lo que esta debajo del return es un codigo equivalente a otra forma de hacerlo y cumplen la misma funcion",
+  "main": "linkedkist.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false  --verbose"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "jest": "^26.4.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "homepage": "https://github.com/JhoanBurbano/repaso-js#readme"
+}
