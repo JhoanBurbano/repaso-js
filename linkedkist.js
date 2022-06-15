@@ -14,9 +14,9 @@ function Linkedlist(){
       this.head = nodo
       return nodo
     }
-    let actual = this.head
+   let actual = this.head
     while(actual.next !== null){
-      actual = actual.next
+      actual = actual.next 
       }
     actual.next = nodo
     return nodo
